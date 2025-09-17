@@ -26,7 +26,12 @@ THIS IS A LINE FROM RSTUDIO
 
 ## Step 12.2
 
+*Alexander:* No issues here.
+
 ## Step 12.3 
+
+*Alexander:* No issues here.
+
 *Owen:* Git is not installed on computer, had to install
 
 ## Step 12.4
@@ -44,3 +49,5 @@ THIS IS A LINE FROM RSTUDIO
 *Alexander:* It took a second before I was able to see changes. I had to make sure I saved the R Markdown file first, checked "Staged", committed, then pushed.
 
 ## Step 12.7
+
+*Alexander:* Did not do, as it asked to delete repository.
