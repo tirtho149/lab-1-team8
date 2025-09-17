@@ -18,4 +18,10 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+This is a change from Rstudio
+
 12.3 - git is not installed on computer, had to install it.
+
+12.4 - Can't find the "staged box"
+
+
