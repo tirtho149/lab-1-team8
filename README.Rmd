@@ -34,6 +34,8 @@ THIS IS A LINE FROM RSTUDIO
 
 ## Step 12.5 
 
+*Alexander:* At first I was having difficulty with an error when I tried to push. After reading the error it told me that I had to pull first. After doing so I was able to push successfully.
+
 ## Step 12.6
 
 ## Step 12.7
