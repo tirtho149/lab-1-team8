@@ -26,11 +26,14 @@ THIS IS A LINE FROM RSTUDIO
 
 ## Step 12.2
 
-## Step 12.3
+## Step 12.3 
+*Owen:* Git is not installed on computer, had to install
 
 ## Step 12.4
 
 *Alexander:* I was able to connect Git locally through Rstudio. However, I had to find where my computer locally saved the file. I used the "files" tab on the bottom right of Rstudio to see it was located in my "documents" folder.
+
+*Owen:* Can't find "staged box" had to save first. Tried to commit "Author identity unknown" had to set user email
 
 ## Step 12.5 
 
