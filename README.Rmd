@@ -17,3 +17,23 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+THIS IS A LINE FROM RSTUDIO
+
+## Step 12.1
+
+*Alexander:* Git is installed and set up. No problems with the prerequisites
+
+## Step 12.2
+
+## Step 12.3
+
+## Step 12.4
+
+*Alexander:* I was able to connect Git locally through Rstudio. However, I had to find where my computer locally saved the file. I used the "files" tab on the bottom right of Rstudio to see it was located in my "documents" folder.
+
+## Step 12.5 
+
+## Step 12.6
+
+## Step 12.7
