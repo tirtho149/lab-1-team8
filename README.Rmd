@@ -24,9 +24,13 @@ THIS IS A LINE FROM RSTUDIO
 
 *Alexander:* Git is installed and set up. No problems with the prerequisites
 
+*Owen:* No problems
+
 ## Step 12.2
 
 *Alexander:* No issues here.
+
+*Owen:* No problems
 
 ## Step 12.3 
 
@@ -44,10 +48,16 @@ THIS IS A LINE FROM RSTUDIO
 
 *Alexander:* At first I was having difficulty with an error when I tried to push. After reading the error it told me that I had to pull first. After doing so I was able to push successfully.
 
+*Owen:* Had an error when trying to push, needed to pull first.
+
 ## Step 12.6
 
 *Alexander:* It took a second before I was able to see changes. I had to make sure I saved the R Markdown file first, checked "Staged", committed, then pushed.
 
+*Owen:* No problems here
+
 ## Step 12.7
 
 *Alexander:* Did not do, as it asked to delete repository.
+
+*Owen:* Did not do
