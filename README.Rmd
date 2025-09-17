@@ -38,4 +38,6 @@ THIS IS A LINE FROM RSTUDIO
 
 ## Step 12.6
 
+*Alexander:* It took a second before I was able to see changes. I had to make sure I saved the R Markdown file first, checked "Staged", committed, then pushed.
+
 ## Step 12.7
